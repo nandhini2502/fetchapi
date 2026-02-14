@@ -1,0 +1,13 @@
+button{
+  align-items: center;
+  border-radius: 10px;
+  color: black;
+  background-color: rgb(92, 92, 239);
+  cursor: pointer;
+  padding: 19px;
+  text-transform: capitalize;
+
+}
+body{
+  background-image: ;
+}
